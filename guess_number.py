@@ -21,3 +21,4 @@ while True:
         break
 
 print('Отличная интуиция! Вы угадали число :)')
+#new_changes
